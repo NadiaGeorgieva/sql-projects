@@ -1,0 +1,8 @@
+Product_Id,ProductName,Count,Description,Price,Category_Id,Supplier_Id
+1,TV,20,"Brand:Sumsung,Resolution:720p(HD)",199,1,1
+2,HairBand,10,MadeIn:Chineese,4,2,2
+3,Shampoo-Olive,30,Apply:for normal hair,35,3,3
+4,Blouse,54,"Material:Cotton,Colors:White/Green",49,2,2
+5,Bingo,100,Strong preparat,5,3,1
+6,Tablet,45,Brand:Lenovo,125,1,3
+7,Gaming phone,50,"Color:black,blue",955,4,1
